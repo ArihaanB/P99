@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(blue, yellow);
+}
+
+#title{
+    font-size: 45px;
+    font-family: monospace;
+    text-emphasis-color: black;
+    font-weight: 1000;
+}
+
+#infonotes{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+#cool1{
+    font-size: 15px;
+    font-family: monospace;
+    font-weight: 500;
+}
+
+#cool{
+    font-size: 15px;
+    font-family: monospace;
+    font-weight: 500;
+}
+
+#camera{
+    width:500px;
+    height:400px;
+}
+
+.img{
+    width:300px;
+    height:300px;
+    border-style: solid;
+    border-width:3px;
+    border-color:black;
+}
